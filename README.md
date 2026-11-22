@@ -22,6 +22,6 @@ I'm a Computer Science & Engineering undergraduate at **BUET** focusing on full-
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/mahir-morshed-786a573a8))
+* **Email:** 2405150@ugrad.cse.buet.ac.bd
 * **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
